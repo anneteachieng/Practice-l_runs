@@ -1,0 +1,6 @@
+#if, used if a condition is true
+
+age = int(input("How old are you: "))
+
+if age >= 18:
+  print("You can vote")
