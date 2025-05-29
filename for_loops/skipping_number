@@ -1,0 +1,8 @@
+# for loop
+# using continue to skip a number
+
+for x in range(11, 22):
+   if x == 15:
+     continue
+   else:
+     print(x)
