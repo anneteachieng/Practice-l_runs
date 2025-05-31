@@ -1,0 +1,3 @@
+for m in range(0, 5):
+    for g in range(0, 5):
+        print(m, g)
