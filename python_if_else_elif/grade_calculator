@@ -1,0 +1,14 @@
+#calculating grades using scores
+
+score = int(input((`What is your score? `))
+
+if score > 89:
+  print(`A`)
+elif => 80:
+  print(`B´)
+elif => 70:
+  print(´C´)
+elif => 60:
+  print(´D´)
+else:
+  print(´F´)
