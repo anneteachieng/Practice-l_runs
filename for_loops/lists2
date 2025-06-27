@@ -1,0 +1,6 @@
+#classroom items
+
+items = ["ruler", "book", "pen", "pencil", "desk", "table"]
+
+for item in items:
+  print(item)

@@ -1,0 +1,6 @@
+#Checking if the weather is sunny or rainy
+
+weather = input(" What is the weather? (Sunny/Rainy): ")
+
+if weather == "Rainy":
+  print("Wear your jacket")

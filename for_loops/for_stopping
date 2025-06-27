@@ -1,0 +1,8 @@
+#for loop
+#break = the code stops there
+
+for y in range(23, 34):
+  if y == 26:
+    break
+  else:
+    print(y)

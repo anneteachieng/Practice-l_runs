@@ -1,0 +1,15 @@
+#if - if the condition is true
+#else - if differet
+#elif - multiple true conditions
+
+weather = input("What's the weather like today? (sunny/rainy/snowy): ")
+
+if weather == "sunny":
+  print("Wear a t-shirt and sunglasses.")
+elif weather == "rainy":
+  print("Don't forget your umbrella and a raincoat.")
+elif weather == "snowy":
+  print("Take your coat and boots")
+
+else:
+  print("Sorry, I didn't check the weather report")

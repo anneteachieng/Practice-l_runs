@@ -1,0 +1,4 @@
+#for loops = execute a code for a fixed numer of times
+
+for x in range(23, 28):
+  print(x)
