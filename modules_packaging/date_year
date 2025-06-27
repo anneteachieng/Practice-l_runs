@@ -1,0 +1,21 @@
+#printing parts of a date
+
+import datetime
+
+#printing the year
+
+x = datetime.date.today()
+print(x.year)
+
+#printing the month only
+
+print(x.month)
+
+#printing the day of the week
+#using weekday, where monday is 0 and sunday is 6
+
+print(x.weekday())
+
+#using isoweekday where Monday is 1 and sunday is 7
+
+print(x.isoweekday())
